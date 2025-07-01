@@ -1,4 +1,3 @@
-let n;
 let arr = [1, 3, 7, 2, 1, 3, 7];
 const deleteDuplicate = () => {
   for (let i = 0; i < arr.length; i++) {
