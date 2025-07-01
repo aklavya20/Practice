@@ -9,6 +9,5 @@ for (let i = 0; i < newarr.length; i++) {
     count[item] = true;
     myArr.push(item);
   }
-  console.log(count);
 }
 console.log(myArr);
